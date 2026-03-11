@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/opu-hossain/leetJourny/tree/master/0001-two-sum) |
+| [1929-concatenation-of-array](https://github.com/opu-hossain/leetJourny/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/opu-hossain/leetJourny/tree/master/0009-palindrome-number) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/opu-hossain/leetJourny/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
