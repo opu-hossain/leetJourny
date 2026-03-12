@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/opu-hossain/leetJourny/tree/master/0001-two-sum) |
 | [0485-max-consecutive-ones](https://github.com/opu-hossain/leetJourny/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/opu-hossain/leetJourny/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/opu-hossain/leetJourny/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/opu-hossain/leetJourny/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/opu-hossain/leetJourny/tree/master/0001-two-sum) |
+| [0645-set-mismatch](https://github.com/opu-hossain/leetJourny/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -22,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/opu-hossain/leetJourny/tree/master/1929-concatenation-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/opu-hossain/leetJourny/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/opu-hossain/leetJourny/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
