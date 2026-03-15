@@ -1,16 +1,11 @@
 class Solution {
     fun smallerNumbersThanCurrent(nums: IntArray): IntArray {
-       var count = 0
-        val output = mutableListOf<Int>()
-        for (i in nums.indices) {
-            for (j in nums.indices) {
-               if (nums[i] != nums[j] && nums[j] < nums[i]) {
-                   count++
-               }
-            }
-            output.add(count)
-            count = 0
+       val sortedNums = nums.clone().also { it.sort() }
+        val map = mutableMapOf<Int, Int>()
+        for((index, value ) in sortedNums.withIndex()) {
+            map.putIfAbsent(value, index)
+
         }
-        return output.toIntArray() 
+        return IntArray(nums.size) { i -> map[nums[i]]!!} 
     }
 }
