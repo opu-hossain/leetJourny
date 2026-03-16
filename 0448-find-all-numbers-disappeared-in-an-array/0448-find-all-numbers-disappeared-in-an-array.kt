@@ -1,9 +1,9 @@
 class Solution {
     fun findDisappearedNumbers(nums: IntArray): List<Int> {
-        val size = nums.size
+        val set = nums.toHashSet()
         val notInArray = mutableListOf<Int>()
-        for(i in 1..size) {
-            if (!nums.contains(i)) {
+        for(i in 1..nums.size) {
+            if (i !in set) {
                 notInArray.add(i)
             }
         }
